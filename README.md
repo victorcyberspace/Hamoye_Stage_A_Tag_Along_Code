@@ -1,1 +1,2 @@
 # Hamoye_Stage_A_Tag_Along_Code_Victor_Winter_Cohort
+I have been given a task that involves working with data provided by the United Nations Food and Agriculture Organization. The project requires utilizing Python and Jupyter Notebooks to solve multiple quiz questions based on the dataset. The data contains information on the agricultural production of African nations in the United Nations over a five-year period, starting in 2014 and ending in 2018, and encompasses various types of food.
